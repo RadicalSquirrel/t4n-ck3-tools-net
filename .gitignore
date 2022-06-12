@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/t4n-ck3-tools-net-ui/.vs/t4n-ck3-tools-net-ui/v16
+/t4n-ck3-tools-net-ui/packages
+/t4n-ck3-tools-net-ui/t4n-ck3-tools-net-ui/bin/Debug
+/t4n-ck3-tools-net-ui/t4n-ck3-tools-net-ui/obj/Debug
